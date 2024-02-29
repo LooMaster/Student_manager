@@ -1,0 +1,6 @@
+﻿  Studentmanager.cpp
+C:\Users\23304\source\repos\C++课设答辩\C++课设答辩\Studentmanager.cpp(155,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\23304\source\repos\C++课设答辩\C++课设答辩\Studentmanager.cpp(283,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\23304\source\repos\C++课设答辩\C++课设答辩\Studentmanager.cpp(296,35): warning C4101: “select”: 未引用的局部变量
+C:\Users\23304\source\repos\C++课设答辩\C++课设答辩\Studentmanager.cpp(597,23): warning C4101: “numberpoint”: 未引用的局部变量
+  C++课设答辩.vcxproj -> C:\Users\23304\source\repos\C++课设答辩\x64\Debug\C++课设答辩.exe
