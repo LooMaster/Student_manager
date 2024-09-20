@@ -1,6 +1,6 @@
 #include"Studentmanager.h"
 #include<iostream>
-#include<sstream>   // ×Ö·û´®Á÷
+#include<sstream>   //å­—ç¬¦ä¸²æµ
 using namespace std;
 
 int main()
